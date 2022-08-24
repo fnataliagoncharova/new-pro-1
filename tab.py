@@ -1,12 +1,9 @@
-for col in range (1, 5):
+for col in range (1, 105):
   print(end='\n')
-  for row in range(1, 5):
+  for row in range(1, 105):
     print(row * col, end='\t')
 
 
 
 
 
-print("выводим таблицу умножения !")
-print("выводим таблицу умножения !")
-print("выводим таблицу умножения !")
